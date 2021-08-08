@@ -1,0 +1,16 @@
+.socials {
+  display: flex;
+}
+
+.socials__item {
+  min-height: 56px;
+}
+
+.socials__link {
+  display: inline-block;
+}
+
+.socials__icon {
+  width: 35px;
+  height: 35px;
+}
