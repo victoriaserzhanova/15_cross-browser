@@ -8,7 +8,7 @@
 .footer__container {
   display: flex;
   flex-direction: column-reverse;
-  min-height: 626px;
+  min-height: 616px;
 }
 
 .footer-left {
@@ -23,7 +23,7 @@
 }
 
 .footer-left__logo-wrapper {
-  margin-bottom: 5px;
+  margin-bottom: 22px;
 }
 
 .footer__logo {
