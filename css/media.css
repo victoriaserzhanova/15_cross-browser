@@ -1,12 +1,13 @@
 @media (min-width: 768px) {
   .container {
-    max-width: 668px;
+    width: 668px;
     padding: 0;
   }
 
   .menu{
   left: 0;
   width: 300px;
+    
   height: 770px;
   }
 
@@ -57,7 +58,7 @@
 
 /* HERO */
   .hero__container {
-    max-width: 768px;
+   width: 768px;
   }
 
   .hero__slider {
@@ -390,7 +391,7 @@
 
 @media (min-width: 1024px) {
   .container {
-    max-width: 924px;
+    width: 924px;
   }
 
   .menu{
