@@ -1,12 +1,12 @@
-.menu{
-  position: absolute;
+.menu {
+  position: fixed;
   top: 0;
   right: 0;
-  width: 200px;
+  min-width: 210px;
   height: 339px;
   z-index: 1000;
   background-color: var(--bg-color);
-  transform: translateX(901%);
+  transform: translateX(500%);
   transition: transform 0.3s ease-in-out;
 }
 
