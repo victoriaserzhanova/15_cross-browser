@@ -7,6 +7,7 @@
   .menu{
   left: 0;
   width: 300px;
+    
   height: 770px;
   }
 
@@ -57,7 +58,11 @@
 
 /* HERO */
   .hero__container {
+<<<<<<< HEAD
     max-width: 768px;
+=======
+   width: 768px;
+>>>>>>> ba0b707c4dff3d48119245b640988e5ac2895236
   }
 
   .hero__slider {
